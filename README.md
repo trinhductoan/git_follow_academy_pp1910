@@ -1,1 +1,1 @@
-# git_follow_academy_pp1910
+# Git Follow Academy Training PP1910
